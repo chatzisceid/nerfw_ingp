@@ -31,7 +31,7 @@ This implementation has **strict** requirements due to dependencies on other lib
 
 ## Software
 
-* Clone this repo by `git clone https://github.com/kwea123/ngp_pl`
+* Clone this repo by `git clone https://github.com/chatzisceid/nerfw_ingp.git`
 * Python>=3.8 (installation via [anaconda](https://www.anaconda.com/distribution/) is recommended, use `conda create -n ngp_pl python=3.8` to create a conda environment and activate it by `conda activate ngp_pl`)
 * Python libraries
     * Install pytorch by `pip install torch==1.11.0 --extra-index-url https://download.pytorch.org/whl/cu113`
